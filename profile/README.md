@@ -20,12 +20,12 @@ Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato comig
 
 Durante o bootcamp, foram realizados diversos desafios práticos, projetos e estudos aprofundados. Alguns dos tópicos abordados incluem:
 
-✅ Introdução ao Java e sua aplicação no desenvolvimento backend.
-✅ Criação e consumo de APIs RESTful com Spring Boot.
-✅ Estruturação de aplicações escaláveis utilizando Angular.
-✅ Conceitos fundamentais de Inteligência Artificial com o AI-900.
-✅ Utilização do Microsoft Azure para soluções baseadas em IA.
-✅ Projetos práticos para consolidar o conhecimento adquirido.
+- ✅ Introdução ao Java e sua aplicação no desenvolvimento backend.
+- ✅ Criação e consumo de APIs RESTful com Spring Boot.
+- ✅ Estruturação de aplicações escaláveis utilizando Angular.
+- ✅ Conceitos fundamentais de Inteligência Artificial com o AI-900.
+- ✅ Utilização do Microsoft Azure para soluções baseadas em IA.
+- ✅ Projetos práticos para consolidar o conhecimento adquirido.
 
 ## 🎯 Minha Experiência no Programa
 
