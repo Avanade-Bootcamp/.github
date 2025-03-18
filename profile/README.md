@@ -52,4 +52,4 @@ Durante o bootcamp, foram realizados diversos desafios práticos, projetos e est
 
 ## 🎯 Minha Experiência no Programa
 
-Aqui, vou compartilhar minhas impressões sobre o bootcamp, destacando os pontos que mais gostei, desafios que enfrentei e como essa experiência contribuiu para o meu crescimento profissional.
+No bootcamp, aprimorei minhas habilidades em Java, Spring Boot e Angular, além de aprender os fundamentos da Inteligência Artificial com o AI-900. Enfrentei desafios práticos, desenvolvi APIs RESTful e trabalhei com soluções escaláveis. A experiência foi essencial para fortalecer meus conhecimentos e aplicá-los em projetos reais.
