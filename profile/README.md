@@ -10,6 +10,15 @@ Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato comig
 ![Discord](https://img.shields.io/badge/Discord-gabriel.tec-%237289DA?logo=discord)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-(11)%2091356--4300-%237289DA?logo=whatsapp)](https://wa.me/+5511913564300)
 
+### Idiomas - Languages
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <img src="./assets/lang/br.png" width="23" />Português - Nativo
+</div>
+<br/>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <img src="./assets/lang/eua.png" width="23" />English - Intermediary
+</div>
+
 ## 🚀 Tecnologias Aprendidas
 
 - Java: Programação orientada a objetos, frameworks como Spring Boot, manipulação de APIs RESTful e integração com bancos de dados.
